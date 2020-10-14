@@ -1,0 +1,32 @@
+{
+    "name": "warming-stripes",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "main": "src/index.js",
+    "author": {
+        "name": "Erick Otenyo",
+        "email": "otenyo.erick@gmail.com"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "d3-scale": "3.2.3",
+        "prop-types": "15.7.2",
+        "react": "16.13.1",
+        "react-dom": "16.13.1",
+        "react-scripts": "3.4.3",
+        "recharts": "1.8.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}

@@ -1,0 +1,5 @@
+.stripes-tooltip {
+    color: #000;
+    text-shadow: -1px 0#fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+    font-size: 15px;
+}
