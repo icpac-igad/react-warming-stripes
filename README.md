@@ -4,3 +4,5 @@ This Warming Stripe React Component take inspiration from the ones created by cl
 
 The data used is just for demonstration. You will need to format your data to match the sample
 
+![](https://www.icpac.net/images/HzKDTaOYrar7HRcgd95hfg5AWPY=/920/original/)
+
