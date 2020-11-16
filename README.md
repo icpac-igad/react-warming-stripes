@@ -6,3 +6,6 @@ The data used is just for demonstration. You will need to format your data to ma
 
 ![](https://www.icpac.net/images/HzKDTaOYrar7HRcgd95hfg5AWPY=/920/original/)
 
+## Demo
+[CodeSandbox](https://mniqn.csb.app/)
+
